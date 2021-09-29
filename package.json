@@ -1,5 +1,5 @@
 {
-  "name": "npmpkg-test-demo-tejc63",
+  "name": "@tejas-ezee/npmpkg",
   "version": "0.1.0",
   "main": "dist/index.html",
   "files": [
@@ -23,6 +23,9 @@
     "eslint-plugin-vue": "^6.2.2",
     "vue-template-compiler": "^2.6.11"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "eslintConfig": {
     "root": true,
     "env": {
@@ -41,5 +44,16 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejas-ezee/npmpkg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejas-ezee/npmpkg/issues"
+  },
+  "homepage": "https://github.com/tejas-ezee/npmpkg#readme"
 }
