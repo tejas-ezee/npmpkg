@@ -1,5 +1,5 @@
 {
-  "name": "@tejas-ezee/npmpkg",
+  "name": "npmpkg",
   "version": "0.1.0",
   "main": "dist/index.html",
   "files": [
@@ -11,6 +11,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@tejas-ezee/npmpkg": "^0.1.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },

@@ -972,6 +972,14 @@
   "resolved" "https://registry.npmjs.org/@soda/get-current-script/-/get-current-script-1.0.2.tgz"
   "version" "1.0.2"
 
+"@tejas-ezee/npmpkg@^0.1.0":
+  "integrity" "sha512-i1tJrWCWxXeImO/TBUUeMNcczQlo31p9jBTg0iX93ZU+L4VSwgKOIV/s74HxrZhm97KKQGM0YBFZwwFi31gVMA=="
+  "resolved" "https://npm.pkg.github.com/download/@tejas-ezee/npmpkg/0.1.0/1c6f39c42bb2d0c98348cbcfa38516df15587b6076530a6cdb91ce1a306f5c23"
+  "version" "0.1.0"
+  dependencies:
+    "core-js" "^3.6.5"
+    "vue" "^2.6.11"
+
 "@types/body-parser@*":
   "integrity" "sha512-a6bTJ21vFOGIkwM0kzh9Yr89ziVxq4vYH2fQ6N8AeipEzai/cFK6aGMArIkUeIdRIgpwQa+2bXiLuUJCpSf2Cg=="
   "resolved" "https://registry.npmjs.org/@types/body-parser/-/body-parser-1.19.1.tgz"
